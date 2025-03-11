@@ -76,3 +76,5 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 [Binary Person](https://github.com/binary-person) - Creator of Womginx
 
 [Shirt](https://github.com/shirt-dev) - Proxy Developer
+
+owned now by me
